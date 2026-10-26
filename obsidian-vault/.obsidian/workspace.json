@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "dbe8eb8b0af6d575",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ec8243e3ae4bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc09e9b27dcb43b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbc6055c574257ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f3d4786d3db077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc252426e4dc3397",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15dd881571319199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28db9ffecc8dfda0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdedf171bf0bf971",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae756cb2dab29341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092632786d281ca7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 App Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b6006d70fecc815b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 App Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e42ce7c67ad7399d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5707416a92f5a291",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "005ed698a1ec284a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 App Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bc09e9b27dcb43b8",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "4 Rebuild Plan/M08 Threat intel.md",
+    "REBUILD PLAN.md",
+    "4 Rebuild Plan/M02 Vulnerabilities.md",
+    "3 Data/Suppliers/zlib (supplier).md",
+    "3 Data/Suppliers/VMware (supplier).md",
+    "3 Data/Suppliers/TrustedFirmware (supplier).md",
+    "3 Data/Suppliers/Openssl Project (supplier).md",
+    "3 Data/Suppliers/OpenBSD (supplier).md",
+    "3 Data/Suppliers/Linux Foundation (supplier).md",
+    "3 Data/Suppliers/GNU (supplier).md",
+    "3 Data/Suppliers/libexpat (supplier).md",
+    "3 Data/Suppliers/FasterXML (supplier).md",
+    "3 Data/Suppliers/curl (supplier).md",
+    "3 Data/Suppliers/BusyBox (supplier).md",
+    "3 Data/Suppliers/Apache (supplier).md",
+    "3 Data/Products/TEL-GW.md",
+    "3 Data/Products/TCU-200 Telematics Control Unit.md",
+    "3 Data/Products/IVI-700 Infotainment Head Unit.md",
+    "3 Data/Products/IHU.md",
+    "3 Data/Products/EVSE-310 Charging Station Controller.md",
+    "3 Data/Products/ECU-X42.md",
+    "3 Data/Products/CHRG.md",
+    "3 Data/Products/BMS-050 Battery Management System.md",
+    "3 Data/Products/ADAS.md",
+    "3 Data/CVEs/CVE-2026-31882.md",
+    "3 Data/Suppliers",
+    "3 Data/Products",
+    "3 Data/CVEs",
+    "3 Data/Components",
+    "3 Data",
+    "4 Rebuild Plan/M09 Friday AI assistant.md.tmp.11068.f78a457d5681",
+    "4 Rebuild Plan/M08 Threat intel.md.tmp.11068.18aaf4ead6f5",
+    "4 Rebuild Plan/M07 Reports.md.tmp.11068.2a98d845876b",
+    "4 Rebuild Plan/M05 PSIRT.md.tmp.11068.1c3f0fec62db",
+    "4 Rebuild Plan/M04 Remediation and Supply chain.md.tmp.11068.5d20f435b2da"
+  ]
+}
